@@ -1,4 +1,4 @@
-# Buenas 👋 Soy Lautaro
+# Hola 👋 Soy Lautaro
 
 Estudiante de Psicología en la UBA y entusiasta de los datos. Mi objetivo es aplicar el rigor analítico de la ciencia de datos para mejorar la toma de decisiones en el ámbito de los RRHH.
 

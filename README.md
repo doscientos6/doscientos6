@@ -1,16 +1,16 @@
-## Hi there 👋
+# Buenas 👋 Soy Lautaro
 
-<!--
-**doscientos6/doscientos6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Psicología en la UBA y entusiasta de los datos. Mi objetivo es aplicar el rigor analítico de la ciencia de datos para mejorar la toma de decisiones en el ámbito de los RRHH.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Análisis de Datos:** SQL (PostgreSQL), Excel Avanzado.
+* **Visualización:** Power BI.
+* **Enfoque:** People Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 ¿Qué estoy haciendo ahora?
+Actualmente, estoy documentando mi camino profesional y desarrollando proyectos prácticos que combinan el análisis técnico con la comprensión del comportamiento humano.
+
+Puedes ver más sobre mi trayectoria y conectar conmigo en [LinkedIn](https://www.linkedin.com/in/lautaro-vila-gallardo-5a8b2b405).
+
+---
+*¡Gracias por visitar mi perfil! Estoy siempre abierto a aprender y recibir consejos.*

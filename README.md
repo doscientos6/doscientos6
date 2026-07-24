@@ -1,3 +1,5 @@
+<img width="736" height="414" alt="3289edc88abc852a38e79bb6caad3dd5" src="https://github.com/user-attachments/assets/ad7c9114-1be2-4670-8c0a-206ff6817e81" />
+
 # Hola 👋 Soy Lautaro
 
 Estudiante de Psicología en la UBA y entusiasta de los datos. Mi objetivo es aplicar el rigor analítico de la ciencia de datos para mejorar la toma de decisiones en el ámbito de los RRHH.

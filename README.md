@@ -13,6 +13,5 @@
 🎯 Enfoque	People Analytics
 📊 Estadísticas de GitHub
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=doscientos6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=doscientos6&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doscientos6&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
 📫 Contacto
 <p align="center"> <a href="https://www.linkedin.com/in/lautaro-vila-gallardo-5a8b2b405" target="_blank">LinkedIn</a> · <a href="mailto:vgallardolautaro@gmail.com">vgallardolautaro@gmail.com</a> </p> <p align="center"><i>¡Gracias por visitar mi perfil! Siempre abierto a aprender y recibir consejos 🙌</i></p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=doscientos6&style=flat-square&color=38BDF8" alt="profile views" /> </p>

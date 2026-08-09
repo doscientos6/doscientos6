@@ -29,29 +29,36 @@ Analista de datos autodidacta, formado en el rigor metodológico de las ciencias
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" height="42"/>
-&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32"/>
+
 </div>
 
 <br/>
 
-<ul>
-<li><b>Bases de datos y consultas</b> — SQL (PostgreSQL): joins, agregaciones, subconsultas, optimización</li>
-<li><b>Análisis y modelado</b> — Excel Avanzado: tablas dinámicas, funciones lógicas y de búsqueda</li>
-<li><b>Visualización y BI</b> — Power BI: dashboards interactivos, DAX, storytelling con datos</li>
-<li><b>Pensamiento analítico</b> — Formulación de hipótesis, diseño de métricas, interpretación estadística</li>
-</ul>
+<table width="100%">
+<tr><td width="26%"><b>🗄️ Bases de datos y consultas</b></td><td>SQL (PostgreSQL): joins, agregaciones, subconsultas, optimización</td></tr>
+<tr><td><b>📐 Análisis y modelado</b></td><td>Excel Avanzado: tablas dinámicas, funciones lógicas y de búsqueda</td></tr>
+<tr><td><b>📊 Visualización y BI</b></td><td>Power BI: dashboards interactivos, DAX, storytelling con datos</td></tr>
+<tr><td><b>🧩 Pensamiento analítico</b></td><td>Formulación de hipótesis, diseño de métricas, interpretación estadística</td></tr>
+</table>
 
 <br/>
 
 ## 🌱 Actividad
 
-<ul>
-<li>Cuenta en construcción — subiendo mis primeros proyectos de análisis de datos</li>
-<li>Documentando en público mi transición hacia Data/Business Analyst</li>
-</ul>
+<div align="center">
+
+![Estado](https://img.shields.io/badge/Estado-Portfolio_en_construcci%C3%B3n-38BDF8?style=for-the-badge)
+![Enfoque](https://img.shields.io/badge/Enfoque-Building_in_public-1E3A8A?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<p align="center"><i>Documentando en público mi transición hacia Data/Business Analyst — cada proyecto que subo queda registrado acá.</i></p>
 
 <br/>
 

@@ -64,14 +64,12 @@ Analista de datos autodidacta, formado en el rigor metodológico de las ciencias
 
 ## 🚀 Proyectos destacados
 
-<!--
-Cuando subas repos, generá tarjetas así (reemplazá NOMBRE_DEL_REPO):
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=doscientos6&repo=NOMBRE_DEL_REPO&theme=tokyonight&hide_border=true)](https://github.com/doscientos6/NOMBRE_DEL_REPO)
+<div align="center">
 
-Tip: mostrá rubros variados (ventas, finanzas, datos públicos) además de RRHH.
--->
+[![Compensaciones y Equidad Salarial](https://github-readme-stats.vercel.app/api/pin/?username=doscientos6&repo=Compensaciones_y_Equidad-Salarial&theme=tokyonight&hide_border=true)](https://github.com/doscientos6/Compensaciones_y_Equidad-Salarial)
+[![Análisis de Rotación y Retención de Talento](https://github-readme-stats.vercel.app/api/pin/?username=doscientos6&repo=Analisis_de_Rotacion_y_Retencion_de_Talento&theme=tokyonight&hide_border=true)](https://github.com/doscientos6/Analisis_de_Rotacion_y_Retencion_de_Talento)
 
-> 📌 Próximamente: proyectos de análisis de datos aplicados a distintos rubros.
+</div>
 
 <br/>
 

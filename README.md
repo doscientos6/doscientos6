@@ -15,7 +15,7 @@
 
 ## 🧠 Sobre mí
 
-Analista de datos autodidacta, formado en el rigor metodológico de las ciencias sociales (Psicología, UBA) y enfocado en aplicar herramientas analíticas para resolver problemas de negocio en cualquier área.
+Analista de datos autodidacta, formado en el rigor metodológico de las ciencias sociales (Psicología, UBA) y enfocado en aplicar herramientas analíticas para resolver problemas de negocio en diferentes áreas.
 
 <ul>
 <li>🔎 Transformo datos crudos en información accionable</li>

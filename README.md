@@ -21,7 +21,7 @@ Analista de datos autodidacta, formado en el rigor metodológico de las ciencias
 <li>🔎 Transformo datos crudos en información accionable</li>
 <li>📐 Combino pensamiento estadístico con visualización efectiva</li>
 <li>🌱 Ampliando mi portfolio con proyectos de análisis end-to-end (limpieza, modelado y dashboards)</li>
-<li>🎯 Abierto a roles de <b>Data Analyst / Business Analyst</b>, sin importar la industria</li>
+<li>🎯 Abierto a roles de <b>Data Analyst / Business Analyst</b></li>
 </ul>
 
 <br/>

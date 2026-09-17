@@ -88,6 +88,17 @@ Estudio de patrones de rotación de personal e identificación de factores clave
 **[Ver repositorio →](https://github.com/doscientos6/Analisis_de_Rotacion_y_Retencion_de_Talento)**
 
 </td>
+<td width="50%" valign="top">
+
+### Análisis de E-Commerce
+
+-
+
+`SQL` `Power BI`
+
+**[Ver repositorio →](https://github.com/doscientos6/Analisis-de-E-Commerce)**
+
+</td>
 </tr>
 </table>
 

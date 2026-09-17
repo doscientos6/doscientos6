@@ -68,7 +68,7 @@ Analista de datos autodidacta, formado en el rigor metodológico de las ciencias
 <tr>
 <td width="50%" valign="top">
 
-### 💰 Compensaciones y Equidad Salarial
+###  Compensaciones y Equidad Salarial
 
 Análisis de brechas salariales y equidad interna para apoyar decisiones de compensación.
 
@@ -79,7 +79,7 @@ Análisis de brechas salariales y equidad interna para apoyar decisiones de comp
 </td>
 <td width="50%" valign="top">
 
-### 🔄 Rotación y Retención de Talento
+###  Rotación y Retención de Talento
 
 Estudio de patrones de rotación de personal e identificación de factores clave de retención.
 

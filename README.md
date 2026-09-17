@@ -88,11 +88,11 @@ Estudio de patrones de rotación de personal e identificación de factores clave
 **[Ver repositorio →](https://github.com/doscientos6/Analisis_de_Rotacion_y_Retencion_de_Talento)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Análisis de E-Commerce
 
--
+Análisis de transacciones de e-commerce para identificar patrones de venta y comportamiento de clientes.
 
 `SQL` `Power BI`
 

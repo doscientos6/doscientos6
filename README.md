@@ -66,7 +66,7 @@ Analista de datos autodidacta, formado en el rigor metodológico de las ciencias
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ###  Compensaciones y Equidad Salarial
 
@@ -77,7 +77,7 @@ Análisis de brechas salariales y equidad interna para apoyar decisiones de comp
 **[Ver repositorio →](https://github.com/doscientos6/Compensaciones_y_Equidad-Salarial)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ###  Rotación y Retención de Talento
 
